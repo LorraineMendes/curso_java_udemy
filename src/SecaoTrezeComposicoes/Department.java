@@ -1,4 +1,4 @@
-package SesaoTrezeComposicoes;
+package SecaoTrezeComposicoes;
 
 public class Department {
 

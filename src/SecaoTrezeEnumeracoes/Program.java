@@ -4,7 +4,7 @@ import enums.OrderStatusSecaoTrezeEnumeracao;
 
 import java.util.Date;
 
-public class Delivery {
+public class Program {
     public static void main(String[] args){
         Order order = new Order(1080, new Date(), OrderStatusSecaoTrezeEnumeracao.PENDING_PAYMENT);
         System.out.println(order);

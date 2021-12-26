@@ -2,7 +2,7 @@ package SecaoDezMatrizes;
 
 import java.util.Scanner;
 
-public class Matrizes {
+public class Program {
 
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

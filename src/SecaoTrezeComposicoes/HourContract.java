@@ -1,4 +1,4 @@
-package SesaoTrezeComposicoes;
+package SecaoTrezeComposicoes;
 
 import java.util.Date;
 
